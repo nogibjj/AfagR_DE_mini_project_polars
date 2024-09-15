@@ -1,4 +1,4 @@
-from my_lib.lib import (get_data, get_mean,get_median, summary )
+from my_lib.lib import get_data, get_mean, get_median, summary
 
 link = "https://raw.githubusercontent.com/Utshav-paudel/10-data-analysis-project/d7379235a8d48290c5333b83685d6fca76b5f2f9/dataset/2.%20Cars%20Data1.csv"
 
