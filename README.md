@@ -5,7 +5,7 @@
 [![Lint](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/lint.yml)
 [![Test](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/test.yml)
 
-
+[link for the video](https://youtu.be/XVYJ4UrZ2dM)
 ## Overview
 This project is a Python-based assignment that uses **pandas** for data analysis and processing. The repository contains a Python script that performs descriptive statistics, visualizations, and data summarization using a dataset of cars.
 
