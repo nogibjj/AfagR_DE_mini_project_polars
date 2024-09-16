@@ -24,7 +24,7 @@ This project is a Python-based assignment that uses **pandas** for data analysis
 git clone https://github.com/nogibjj/AfagR_DE_assignment2_pandas.git
 cd AfagR_DE_assignment2_pandas
 
-
+## Usage 
 2. **Create a Virtual Environment**
 Activate the virtual environment:
 3. **Install Dependencies**
@@ -40,6 +40,7 @@ Activate the virtual environment:
 - make test (Run unit tests using a testing framework (e.g., pytest).)
 - make all (Run all the above targets.)
 
+## Project Structure
 
 ## Visualizations of features
 ![desc](All_features_distribution.png)
