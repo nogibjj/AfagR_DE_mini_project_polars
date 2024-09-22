@@ -50,7 +50,7 @@ def save_to_md(data):
             "![Engine Size & MPG Highway Visualization](Visualization_of_EngineSize_&_MPG_Highway.png)\n"
         )
         file.write("\n\n")  # Add a new line
-        file.write("![Correlation Matrix](correlation_matrix.png)\n")
+        file.write("![Correlation Matrix](correlation_matrix_polars.png)\n")
 
 
 if __name__ == "__main__":

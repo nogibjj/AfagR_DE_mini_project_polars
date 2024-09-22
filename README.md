@@ -21,7 +21,7 @@ This project is a Python-based assignment that uses **polars** for data analysis
 
 ### 1. Clone the repository
 
-git clone https://github.com/nogibjj/AfagR_DE_assignment2_pandas.git
+git clone https://github.com/nogibjj/AfagR_DE_mini_project_polars.git
 cd AfagR_DE_assignment2_pandas
 
 ## Usage 
@@ -50,7 +50,7 @@ Activate the virtual environment:
 ![congress_viz](Horsepower_histogram.png)
 
 ## Correlation
-![congress_viz3](correlation_matrix.png)
+![congress_viz3](correlation_matrix_polars.png)
 
 
 ![congress_viz2](Visualization_of_EngineSize_&_MPG_Highway.png)
