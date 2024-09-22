@@ -22,7 +22,7 @@ This project is a Python-based assignment that uses **polars** for data analysis
 ### 1. Clone the repository
 
 git clone https://github.com/nogibjj/AfagR_DE_mini_project_polars.git
-cd AfagR_DE_assignment2_pandas
+
 
 ## Usage 
 2. **Create a Virtual Environment**
